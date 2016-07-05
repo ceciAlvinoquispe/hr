@@ -1,0 +1,24 @@
+/*-----------------------------FONTS-------------------------------*/
+@font-face {
+  font-family: CenturyGothic;
+  src: url(../fuentes/CenturyGothic.eot);
+  src: url(../fuentes/CenturyGothic.ttf);
+}
+
+@font-face {
+  font-family: CenturyGothic-Bold;
+  src: url(../fuentes/CenturyGothic-Bold.eot);
+  src: url(../fuentes/CenturyGothic-Bold.ttf);
+}
+
+@font-face {
+  font-family: BrandonText-Bold;
+  src: url(../fuentes/BrandonText-Bold.eot);
+  src: url(../fuentes/BrandonText-Bold.otf);
+}
+
+@font-face {
+  font-family: BrandonText-Medium;
+  src: url(../fuentes/BrandonText-Medium.eot);
+  src: url(../fuentes/BrandonText-Medium.otf);
+}
